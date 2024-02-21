@@ -1,0 +1,16 @@
+        /*
+        Buga tudo os decimal, os valores errados ainda sao compreensiveis segundo o algoritimo, 
+        que deve incrementar uma nova materia, 
+        que so 1 aluno tem, os outros nao fazem essa materia,
+        cada aluno tem materias diferentes, conforme a quantidade de notas.
+        //examAssignments = studentScores.Length;
+        */
+		
+Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
+//Console.WriteLine("Student\t\tExam Score\t\t\tOverall\t\tGrade\t\tExtra Credit\n");
+	
+		
+//Console.WriteLine($"{currentStudent}\t\t{"0"}\t\t\t\t{currentStudentGrade}\t\t{currentStudentLetterGrade}\t\t{"0 (0 pts)"}");
+Console.WriteLine("Student\t\tExam Score\t\tOverall\tGrade\tExtra Credit\n");
+
+https://www.youtube.com/watch?v=r-vH7fLu4ZY
